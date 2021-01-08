@@ -1,13 +1,11 @@
-netflix_DIO
+# netflix_DIO <br/>
 Atividade do bootcamp "everis FullStack Developer", na plataforma Digital Innovation One, que tem como objetivo recriar a interface da Netflix.
-
-Meu instagram:
+<br/>
+### Meu instagram: <br/>
 https://www.instagram.com/0.miguel_/
-
-
-Link da plataforma:
+<br/>
+### Link da plataforma: <br/>
 https://digitalinnovation.one/sign-up?ref=5X3CVOTPOD
-
-
-Sobre a everis:
+<br/>
+### Sobre a everis: <br/>
 https://www.everis.com/global/en/about-us /
